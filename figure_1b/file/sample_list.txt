@@ -1,0 +1,7 @@
+ESC
+NSC_E11
+NSC_E14
+NSC_E18
+Neuron
+Astrocyte
+Oligodendrocyte
